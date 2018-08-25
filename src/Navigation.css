@@ -1,0 +1,33 @@
+.Navigation {
+    background: #222;  
+}
+
+.nav-elems {
+    padding: 0;
+    margin: 0;
+    width: 100px;
+    height: 100%;
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.butt:hover{
+    background: rgb(48, 48, 48);
+}
+
+.butt {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.button {
+    width: 100%;
+    height: 100%;
+    background: none;
+    border: none;
+    color: white;
+}

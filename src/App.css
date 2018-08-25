@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.App-logo {
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: auto;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 3rem;
+  text-transform: uppercase;
+  margin: 15px;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.games {
+  display: flex;
+  width: 100%;
+  height: 100%;
+
+}
+
+.contents {
+  display: flex;
+  height: 100%;
+}
